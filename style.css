@@ -148,6 +148,7 @@ hr {
     justify-content: center;
     padding: 40px;
     grid-template-columns: repeat(6, 75px);
+    grid-column-gap: 4px;
 }
 
 .info-container .hexagon {
